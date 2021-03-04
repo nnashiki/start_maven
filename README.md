@@ -31,8 +31,15 @@ Hello World!
 $ mvn compile exec:java
 ```
 
+test だけコンパイルする
+
 ```
 $ mvn compiler:testCompile
+```
+
+コンパイル and test
+
+```
 $ mvn test
 ```
 
