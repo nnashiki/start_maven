@@ -27,6 +27,8 @@ $ mvn compile
 
 $ java -cp target/classes com.nashiki.app.App       
 Hello World!
+
+$ mvn compile exec:java
 ```
 
 参考記事
