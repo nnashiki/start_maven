@@ -31,6 +31,13 @@ Hello World!
 $ mvn compile exec:java
 ```
 
+```
+$ mvn compiler:testCompile
+$ mvn test
+```
+
+
+
 参考記事
 
 - https://speakerdeck.com/yusuke/madajian-nihe-umaven-zai-ru-men-number-jjug?slide=27
